@@ -1,16 +1,21 @@
-### Hi there 👋
+# About Me 🦚
 
-<!--
-**Monopavo/Monopavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'll fill all this in a bit later; I've got a lot of learning to do!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Hobbies 📚🎮🏋️‍♂️🎹🎨🎭👨‍🍳
+
+
+---
+
+## Current Projects 👨‍💻
+
+
+
+
+
+
+
+
