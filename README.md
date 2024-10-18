@@ -4,7 +4,7 @@
 
 <details>
 
-<summary> <u>Coding Background</u> </summary>
+<summary> *Coding Background* </summary>
 
 <br>
   
@@ -25,14 +25,15 @@
 
 ---
 
-## <u>My Learning Journey with the School Of Code</u> 📚 ##
+## *My Learning Journey with the School Of Code* 📚 ##
 
 ---
 
-### <u>_Day 1_</u> ### 
+### *Day 1* ### 
 
 <p>TBC</p>
 
+---
 
 ---
 
