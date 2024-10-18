@@ -1,10 +1,10 @@
 ![My profile banner, which is a simplified black and white peacock with gold, green, teal, blue, and purple ribbons flanking it.](MyBanner.png)
 
-# <u>About Me</u> 🦚
+# **About Me** 🦚
 
 <details>
 
-<summary> *Coding Background* </summary>
+<summary> **Coding Background** </summary>
 
 <br>
   
@@ -25,7 +25,7 @@
 
 ---
 
-## *My Learning Journey with the School Of Code* 📚 ##
+## **My Learning Journey with the School Of Code** 📚 ##
 
 ---
 
