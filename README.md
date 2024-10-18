@@ -4,7 +4,7 @@
 
 <details>
 
-<summary>__Coding Background__</summary>
+<summary> <u>Coding Background</u> </summary>
 
 <br>
   
