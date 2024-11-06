@@ -23,6 +23,14 @@ I knew I needed some sort of formal environment to guide me in the right directi
 I would say that a major reason I applied to a bootcamp rather than solely continuing my self-learning is that I wanted to challenge and enrich my character. I could spend another year or two learning to code by myself, and I might even become very proficient... yet I would have no clue about how to work effectively with others without stepping on a lot of toes, which I've come to learn is an especially important skill. I gather that tech companies want problem-solvers, logisticians, innovators, mediators, and team players more so than juniors who can code in dozens of languages and frameworks, especially in the current climate of AI-assisted solutions.
 </details>
 
+
+## <u>Current Projects</u> 👨‍💻
+
+--- 
+TBA
+
+
+
 ---
 
 ## **My Learning Journey with the School Of Code** 📚 ##
@@ -57,7 +65,3 @@ I would say that a major reason I applied to a bootcamp rather than solely conti
 ### *Day 7* ### 
 
 </details>
-
-## <u>Current Projects</u> 👨‍💻
-
---- 
