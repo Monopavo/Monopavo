@@ -1,5 +1,9 @@
 ![My profile banner, which is a simplified black and white peacock with gold, green, teal, blue, and purple ribbons flanking it.](MyBanner.png)
 
+
+
+
+
 # **About Me** 🦚
 
 <details>
@@ -24,18 +28,19 @@ I would say that a major reason I applied to a bootcamp rather than solely conti
 </details>
 
 
+
+
+
 ## <u>Current Projects</u> 👨‍💻
 
---- 
 TBA
 
 
 
----
+
 
 ## **My Learning Journey with the School Of Code** 📚 ##
 
----
 <details><summary>Week 1</summary>
   
 ### *Day 1* ### 
