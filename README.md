@@ -45,6 +45,36 @@ TBA
   
 ### *Day 1* ### 
 
+I had a great time getting to know my two team members for this week, as well as gaining an overview of what the bootcamp will entail. I knew it when I applied, but the focus on a growth mindset and group programming for the curriculum seems like the perfect way for me to develop myself not only as a programmer, but as a person. It'll be a long 16 weeks, but I truly believe this bootcamp will change my life for the better.
+
+### *Day 2* ### 
+
+---
+
+### *Day 3* ### 
+
+---
+
+### *Day 2* ### 
+
+---
+
+### *Day 4* ### 
+
+---
+
+### *Day 6* ### 
+
+---
+
+### *Day 7* ### 
+
+</details>
+
+<details><summary>Week 2</summary>
+  
+### *Day 1* ### 
+
 ---
 
 ### *Day 2* ### 
