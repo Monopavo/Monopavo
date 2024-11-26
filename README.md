@@ -49,7 +49,7 @@ I had a great time getting to know my two team members for this week, as well as
 
 ### *Day 2* ### 
 
----
+Another productive day at the bootcamp; more reinforcement of the values of a growth mindset and the Imposter Syndrome, headed by guest speaker Ira Rainey from Microsoft. Hearing his story is especially inspiring to me, as it provides me with that hopeful optimism that I can attain a role in tech without having to pursue a degree. We also touched upon GANs, or "Generative Adversarial Networks", with the concept of a Discriminator evaluating and feeding the Generator being an interesting case of recursion. Gandalf AI was our challenge today, and I'm happy to say I reached Level 7, but in turn that's given me questions about the security of AI; it's entirely possible to brute force a decent model with prompts, allowing for private data to become exposed if it's tied to personal AI agents instead of a more generalised model.
 
 ### *Day 3* ### 
 
