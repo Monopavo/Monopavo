@@ -53,9 +53,9 @@ Another productive day at the bootcamp; more reinforcement of the values of a gr
 
 ### *Day 3* ### 
 
----
+Lots of valuable learning around branching in GitHub, which is a skill I've neglected; I'm too used to going solo, so it was a welcome challenge. We also applied the AGILE methodology in completely new groups. Notably, I've had a stark change in my behaviour and mindset; I'm becoming more confident, speaking up, and involving myself instead of staying silent. A great example of this was that even after the briefest of introductions with my AGILE team, I was able to adapt and apply myself to our challenge without any mental blocks. It was certainly an intensive learning session, with it being our first 9-to-5 session, but I'm already seeing results.
 
-### *Day 2* ### 
+### *Day 4* ### 
 
 ---
 
@@ -63,11 +63,9 @@ Another productive day at the bootcamp; more reinforcement of the values of a gr
 
 ---
 
-### *Day 6* ### 
+### *Day 5* ### 
 
 ---
-
-### *Day 7* ### 
 
 </details>
 
@@ -85,18 +83,12 @@ Another productive day at the bootcamp; more reinforcement of the values of a gr
 
 ---
 
-### *Day 2* ### 
-
----
-
 ### *Day 4* ### 
 
 ---
 
-### *Day 6* ### 
+### *Day 5* ### 
 
 ---
-
-### *Day 7* ### 
 
 </details>
