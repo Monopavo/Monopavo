@@ -1,11 +1,8 @@
 ![My profile banner, which is a simplified black and white peacock with gold, green, teal, blue, and purple ribbons flanking it.](MyBanner.png)
 
-
-
- 
-![HTML5 Icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg){width=10% height=10%}
-![CSS3 Icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg){width=10% height=10%}
-![JavaScript Icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg){width=10% height=10%}
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5 Icon" style="max-width: 100%; height: auto;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3 Icon" style="max-width: 100%; height: auto;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript Icon" style="max-width: 100%; height: auto;"/>
 
 # **About Me** 🦚
 
