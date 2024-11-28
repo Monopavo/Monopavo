@@ -2,7 +2,10 @@
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript Icon" width="40" height="40"/>
+ 
+![HTML5 Icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg)
+![CSS3 Icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg)
+![JavaScript Icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
 
 # **About Me** 🦚
 
