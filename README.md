@@ -35,4 +35,4 @@ TBA
 
 ## **My Learning Journey with the School Of Code** 📚 ##
 
-I'll definitely make a big reflection post once I've finished the bootcam. If you're interested, I'm currently describing my journey on [X/Twitter](https://x.com/monopavo/status/1861434160671265147) and through my [100 Days Of Code accountability log](https://github.com/Monopavo/100-days-of-code/blob/master/log.md). Better to reflect upon it rather that have cognitive overload by multiple sources.
+I'll definitely make a big reflection post once I've finished the bootcamp. If you're interested, I'm currently describing my journey on [X/Twitter](https://x.com/monopavo/status/1861434160671265147) and through my [100 Days Of Code accountability log](https://github.com/Monopavo/100-days-of-code/blob/master/log.md). Better to reflect upon it rather than have cognitive overload by multiple sources.
